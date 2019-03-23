@@ -1,11 +1,5 @@
 ---
-excerpt: <p>I was fooling around configuring comment notification on the site and
-  had a look at the <a href="/2011/04/25/goodbye-my-sweet-princess">previous
-  blog entry</a>. It's been two weeks since I had to say goodbye to one of my beloved
-  pets and I've been doing great. Still, it's funny how I have to choke back the tears
-  reading the blog post and thinking about it. In fact, the tears are flowing now.
-  I can't say exactly why, since I have already had many occasions to let people know
-  that Tofu is no longer around and none of them triggered tears.</p>
+excerpt: I've been busy; time has skipped by; I still miss my dog.
 layout: blog
 title: Just so you know
 created: 1304977206

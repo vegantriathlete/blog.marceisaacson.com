@@ -1,9 +1,5 @@
 ---
-excerpt: "<div class=\"blogphoto\"><img src=\"/sites/blog.marceisaacson.com/files/pictures/backyardparadise.jpg\"
-  alt=\"My snowshoe tracks through my backyard to the reservoir\" width=\"512\" height=\"384\"
-  /></div>\r\n<p>Well, I did snow shoe from my backyard to the reservoir to which
-  my house backs up. I got to break the trail -- except for the fact that the doggies
-  were charging ahead of me -- most of the way, too.</p>"
+excerpt: Photo evidence included.
 layout: blog
 title: I just went snow shoeing in my backyard!
 created: 1297024372

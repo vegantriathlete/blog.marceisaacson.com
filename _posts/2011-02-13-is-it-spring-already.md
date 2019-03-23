@@ -1,9 +1,5 @@
 ---
-excerpt: "<div class=\"blogphoto\"><img src=\"/sites/blog.marceisaacson.com/files/pictures/snowshoe-in-tshirt.jpg\"
-  alt=\"Snowshoeing in short sleeves\" width=\"512\" height=\"384\" /></div>\r\n<p>I
-  don't know what the ground hog predicted recently. But, I can tell you that today
-  it was around 63 degrees and sunny when I went snow shoeing with Lana around the
-  reservoir behind our house.</p>"
+excerpt: Photo bragging about the amazing climate in Colorado.
 layout: blog
 title: Is it spring already?
 created: 1297630924

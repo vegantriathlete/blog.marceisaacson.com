@@ -1,9 +1,5 @@
 ---
-excerpt: <p>So, I wasn't as quick to write this blog as the one about the <a href="/2011/07/18/hello-hungry-guests">elk
-  in my backyard</a>. But, within a couple of days of the elk visiting my backyard
-  there was an adorable little frog hopping around on my patio. And while I didn't
-  take any videos (or even pictures), I was still extremely happy to be treated to
-  the nature sighting.</p>
+excerpt: Appreciating life's little miracles.
 layout: blog
 title: Little frog blog
 created: 1312828626

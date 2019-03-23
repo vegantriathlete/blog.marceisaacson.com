@@ -1,10 +1,5 @@
 ---
-excerpt: <p>I was at a <a href="http://www.rockies.us.dhamma.org/index.shtml">Vipassana</a>
-  retreat from April 13 - April 24 and had planned to write a blog entry this morning.
-  However, another priority arose. I had to euthanize my older dog; it was clear that
-  she was ready to take her final sleep. Fortunately, it wasn't that she was suffering.
-  She was just obviously tired and missing the spark of life she used to have, as
-  well as quite weak.</p>
+excerpt: Today I had to euthanize one of my dogs.
 layout: blog
 title: Goodbye my sweet princess
 created: 1303778706

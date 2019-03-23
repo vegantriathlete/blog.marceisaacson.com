@@ -1,9 +1,5 @@
 ---
-excerpt: "<p>Lana and I really want to have a drug-free, natural childbirth at Mountain
-  Midwifery Center. However, right now our son is in the Frank breech position. We
-  had an ultrasound yesterday that confirmed it. Furthermore, the doctor said that
-  there is not a lot of amniotic fluid surrounding the baby, which means that it is
-  unlikely that the baby will turn (or can be made to turn).</p>"
+excerpt: Life doesn't always go according to plan.
 layout: blog
 title: My son is breech
 created: 1324666908

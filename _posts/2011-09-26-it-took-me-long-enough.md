@@ -1,11 +1,5 @@
 ---
-excerpt: '<p>It''s not that I haven''t posted an entry in a while that''s the issue
-  for which I have chosen the title. It''s the fact that with all the "important"
-  things I have posted about my life in this blog, I have still not posted anything
-  about the fact that I am expecting a child. My wife, Lana, is due to give birth
-  to our son, Elijah on January 18, 2012. So, I am including my first draft of the
-  "prayer" I am planning to read to my son during his naming in February.</p><p style="padding-left:
-  30px;">To my Son, Elijah</p>'
+excerpt: I'm going to have a son!
 layout: blog
 title: It took me long enough
 created: 1317064085

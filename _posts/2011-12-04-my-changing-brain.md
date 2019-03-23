@@ -1,11 +1,5 @@
 ---
-excerpt: "<p>Something occurred to me that I wanted to make a note to myself about.
-  I believe that my brain is still as responsive and creative as it was when I was
-  younger. Maybe it's even more creative. What's different is that it isn't as quick
-  or focused as it used to be. Consequently, I am much more disorganized than I used
-  to be. At least it's my perception that I used to be so much sharper. But, I'm going
-  to stop this paragraph (and that train of thought) right here before I veer off
-  into a completely different idea.</p>"
+excerpt: I'm not as sharp as I once was.
 layout: blog
 title: My changing brain
 created: 1323029798

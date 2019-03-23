@@ -1,11 +1,5 @@
 ---
-excerpt: "<p>I have been on a spiritual journey since about June of 2008. During the
-  course of this journey I have read many books, including Janet and Chris Attwood's
-  <em>The Passion Test</em>. I'm reading the book again because I have a coaching
-  client to whom I've recommended it. Janet recommends that you take the passion test
-  every six months. So, I'm way overdue to retake it at this point. Reading through
-  it again with my client will give me a good reason to revisit it for myself as well.</p>\r\n\r\n<p>Here
-  is what I came up with the first (and so far only) time I took the passion test:</p>"
+excerpt: How does my life compare to my first pass at <em>The Passion Test</em>?
 layout: blog
 title: Am I living my ideal life?
 created: 1295893416

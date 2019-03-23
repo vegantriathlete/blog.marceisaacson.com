@@ -1,8 +1,6 @@
 ---
-excerpt: "<p>As long as I'm just kind of hanging out and knocking around the Internet
-  right now, it seems like a good time to finally do a post about the retreat. I'm
-  going to start with a quick entry about a couple of things I learned. While these
-  things may not be incredibly significant to you, they do mean something to me.</p>"
+excerpt: As long as I'm just kind of hanging out and knocking around the Internet
+  right now, it seems like a good time to finally do a post about the retreat.
 layout: blog
 title: My experience at the meditation retreat - Part I
 created: 1305677844

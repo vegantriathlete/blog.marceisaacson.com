@@ -1,11 +1,5 @@
 ---
-excerpt: "<p>When I signed up for the meditation retreat, I thought that I was going
-  on a vacation. Let me tell you that it was no vacation. It was a lot of work. I
-  guess that shouldn't have been such a surprise to me given the number of times that
-  an applicant is asked whether s/he is prepared to stay through all ten days of the
-  retreat. But, every time I was asked that I just thought that they were making a
-  big deal over nothing. Wrong again! As a matter of fact, I wanted to leave the retreat
-  almost every other day (just like clockwork)."
+excerpt: A recap of each day.
 layout: blog
 title: My experience at the meditation retreat - Part II
 created: 1306017238
