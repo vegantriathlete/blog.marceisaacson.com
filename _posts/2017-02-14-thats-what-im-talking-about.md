@@ -1,11 +1,5 @@
 ---
-excerpt: <p>Yes! I just submitted the last video in the Web Services section of my
-  "Mastering Drupal 8 Development" course. I'm planning to move into the "Creating
-  a Custom Theme" section next.</p><p>I'm so glad that I persisted on Sunday afternoon
-  to figure out the issue that was holding me hostage. My accomplishments on Sunday
-  set me up well to keep on rolling on Monday and today I just kept on charging ahead.</p><p>Now
-  I've just got to keep up the momentum the rest of this week :) I've still lots of
-  time left to complete more of the course.</p>
+excerpt: Yes! I just submitted the last video in the Web Services section of my "Mastering Drupal 8 Development" course.
 layout: blog
 title: That's what I'm talking about!
 created: 1487109118

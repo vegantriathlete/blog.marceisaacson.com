@@ -1,5 +1,5 @@
 ---
-excerpt: "<p>Lana and I took a trip to Ouray from Thursday night through Sunday morning.</p>"
+excerpt: Lana and I took a trip to Ouray from Thursday night through Sunday morning.
 layout: blog
 title: Love the one you're with
 created: 1527522704

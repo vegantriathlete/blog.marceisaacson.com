@@ -1,5 +1,5 @@
 ---
-excerpt: "<p>There are kind and generous people in the world.</p>"
+excerpt: There are kind and generous people in the world.
 layout: blog
 title: Thank you, whoever you are
 created: 1549848242

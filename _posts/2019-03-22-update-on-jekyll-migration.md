@@ -1,5 +1,5 @@
 ---
-excerpt: "<p>By George, I think I've got it!</p>"
+excerpt: By George, I think I've got it!
 layout: post
 title: Update on my migration to GitHub
 ---

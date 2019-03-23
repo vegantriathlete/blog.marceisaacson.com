@@ -1,10 +1,6 @@
 ---
-excerpt: <p>It's 3:48 pm right now. I have not worked on my class at all. However,
-  I did make some good progress yesterday afternoon. And I have a good excuse.</p><p>This
-  morning I stopped by two credit unions to ask about a home equity line of credit.
-  I am starting my research into investing in either rental properties or "fix and
-  flip" properties. Mondays are also one of the days that I take care of getting Eli
-  ready for (and to) school. I did do my workout this morning as well.</p>
+excerpt: I am starting my research into investing in either rental properties or "fix and
+  flip" properties.
 layout: blog
 title: Okay I have a pretty good excuse today
 created: 1485816761

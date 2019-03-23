@@ -1,5 +1,5 @@
 ---
-excerpt: "<p>I'm going to be a full-time employee soon!</p>"
+excerpt: I'm going to be a full-time employee soon!
 layout: blog
 title: I really ought to be sharing news
 created: 1526150596

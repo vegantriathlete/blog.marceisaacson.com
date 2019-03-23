@@ -1,5 +1,5 @@
 ---
-excerpt: "<p>I migrated the site to Drupal 8.</p>"
+excerpt: I migrated the site to Drupal 8.
 layout: blog
 title: Well that wasn't too bad
 created: 1523129984

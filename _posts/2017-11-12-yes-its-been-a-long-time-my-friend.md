@@ -1,5 +1,5 @@
 ---
-excerpt: "<p>TL;DR I had to buckle down and strip out everything else.</p>"
+excerpt: TL;DR I had to buckle down and strip out everything else.
 layout: blog
 title: Yes, it's been a long time my friend
 created: 1510533061

@@ -1,5 +1,5 @@
 ---
-excerpt: "<p>Gah! I fell for a Google Voice scam.</p>"
+excerpt: Gah! I fell for a Google Voice scam.
 layout: blog
 title: I can't believe that just happened
 created: 1517252575

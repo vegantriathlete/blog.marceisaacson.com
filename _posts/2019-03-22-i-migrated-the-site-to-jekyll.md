@@ -1,5 +1,5 @@
 ---
-excerpt: "<p>I'm having problems with GitHub Pages, though.</p>"
+excerpt: I'm having problems with GitHub Pages, though.
 layout: post
 title: I migrated the site to Jekyll
 ---

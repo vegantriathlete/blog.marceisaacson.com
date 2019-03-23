@@ -1,11 +1,5 @@
 ---
-excerpt: "<p>I did talk to a couple of people today to get in put about whether they
-  think it makes sense to use a HELOC to earn money. I did also drop Eli off at school
-  and did my workout.</p><p>Last night was the vegan potluck, which means that Eli
-  gets to be a little bit late. Thus, he's a bit slower in the morning.</p><p>And
-  even with all that said, it's probably not a legitimate excuse for letting almost
-  the entire day pass by. I've got just over one hour to rescue a bit of productivity
-  on the class.</p>"
+excerpt: I've got just over one hour to rescue a bit of productivity.
 layout: blog
 title: Mondays are not shaping up to be great days for me
 created: 1486423752

@@ -1,7 +1,5 @@
 ---
-excerpt: "<p>Last week I was in Costa Rica for a family vacation.
-  I had an amazing and wonderful time.
-  Unfortunately, I ran into a problem on the way back to the airport.</p>"
+excerpt: Thanks to the couple who helped me when I ran into trouble on the way back to the airport
 layout: blog
 title: For Sandra and Yronna
 created: 1530473669
