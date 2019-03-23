@@ -1,11 +1,5 @@
 ---
-excerpt: <p>So, where have I been all this time? What happened to the weekly update?</p><p>TL;DR
-  I had to buckle down and strip out everything else. I stopped exercising, blogging,
-  creating videos and pretty much everything else. I focused strictly on billing as
-  many hours as I could on my paying gig and as many hours as I could on the weekend
-  finishing "Mastering Drupal 8 Development."</p><p>Yes, YES, YES!!!!! I finished
-  the course on October 29. After that I still had some requests to change some things
-  and fill out some paperwork from the editor.</p>
+excerpt: "<p>TL;DR I had to buckle down and strip out everything else.</p>"
 layout: blog
 title: Yes, it's been a long time my friend
 created: 1510533061

@@ -1,11 +1,5 @@
 ---
-excerpt: "<p>First a bit of context: Things have been going well for Lana and me.
-  We just purchased a new car this past weekend and we are excited to get rid of her
-  car.</p><p>At first we were thinking about donating the car to a charity. However,
-  we don't generally itemize our taxes and wouldn't end up gaining any financial benefit
-  from the donation. When I looked online at the Kelley Blue Book value of our car
-  I realized that we might get considerably more for our car than I thought. So, we
-  have decided to see about selling the car on Craigslist.</p>"
+excerpt: "<p>Gah! I fell for a Google Voice scam.</p>"
 layout: blog
 title: I can't believe that just happened
 created: 1517252575
