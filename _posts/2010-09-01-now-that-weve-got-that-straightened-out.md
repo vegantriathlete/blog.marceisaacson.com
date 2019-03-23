@@ -1,10 +1,5 @@
 ---
-excerpt: "<p>I was able to pick up my summative evaluation yesterday and drop it off
-  with the rest of my paperwork. That's the good news. The bad news is that my supervisor
-  had written a rather scathing review; I won't get into that, though. So, now I was
-  in the position that the evaluation could prevent me from being considered for substitute
-  teaching. When I dropped off my paperwork I explained what the situation was with
-  the review and also told my side of the story.</p>"
+excerpt: Dealing with a passive / aggressive former boss
 layout: blog
 title: Now that we've got that straightened out
 created: 1283399796

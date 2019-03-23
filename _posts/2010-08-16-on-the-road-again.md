@@ -1,9 +1,5 @@
 ---
-excerpt: "<p>Well, I got the nod from account manager. I've signed the paper work.
-  I have my first phone conference tomorrow. It's official. I have been given the
-  opportunity to do some Drupal sub-contracting work.</p>\r\n<p>Here's to what I hope
-  are the first steps along the path of a new career. May it be a long and pleasant
-  journey.</p>"
+excerpt: I will be doing some Drupal sub-contracting
 layout: blog
 title: On the road again?
 created: 1282016815

@@ -1,8 +1,5 @@
 ---
-excerpt: "<p>When I was meditating this morning I noticed one of those roly poly bugs.
-  Maybe you call them pill bugs, water bugs, or some other name. They are those little
-  black armadillo-like bugs with lots of tiny legs that roll up into a ball when you
-  touch them.</p>"
+excerpt: Being thankful for blessings
 layout: blog
 title: Roly Poly Philosophy
 created: 1283544679

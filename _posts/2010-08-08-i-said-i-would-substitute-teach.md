@@ -1,11 +1,5 @@
 ---
-excerpt: "<p>Lana and I have lived in Colorado just a few days more than four years;
-  we arrived here on August 3, 2006. In June of 2006 we made the decision that we
-  wanted to make the move. At the time we originally decided to move we did not have
-  jobs in the state. But, we were confident that we would find a way to make ends
-  meet. Both of us were teachers, although I had just been non-renewed at my first
-  teaching position. So, we reasoned that if we could not get full-time teaching offers,
-  we could substitute teach."
+excerpt: The Drupal web developer job did not come through. Time for plan B.
 layout: blog
 title: I said I would substitute teach
 created: 1281292611

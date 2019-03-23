@@ -1,7 +1,5 @@
 ---
-excerpt: "<div class=\"blogphoto\"><img src=\"/sites/blog.marceisaacson.com/files/pictures/meditationmountains.jpg\"
-  alt=\"Mountain range in the distance with barren aspen trees in the foreground\"
-  width=\"572\" height=\"428\" /></div>\r"
+excerpt: Visiting Kenosha Pass again
 layout: blog
 title: This too shall pass
 created: 1286059558

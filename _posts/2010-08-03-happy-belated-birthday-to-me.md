@@ -1,11 +1,5 @@
 ---
-excerpt: "<p>My birthday was yesterday and I worked all day long. I'm trying to finish
-  up a project and I've got other projects waiting. I also have had enough days off
-  this year. So, I decided to look at the fact that I had a job as a present. When
-  I got home and checked my messages I discovered that I had one from a company that
-  would like to talk to me more about a position for which I had applied. Yay! I haven't
-  received any more news from the other company that had indicated interest in bringing
-  me on to a project.</p>"
+excerpt: Hoping for the Universe to send me web development work
 layout: blog
 title: Happy belated birthday to me
 created: 1280884836

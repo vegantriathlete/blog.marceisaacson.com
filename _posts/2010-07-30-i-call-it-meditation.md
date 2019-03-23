@@ -1,11 +1,5 @@
 ---
-excerpt: "<div class=\"blogphoto\"><img src=\"/sites/blog.marceisaacson.com/files/pictures/weed-flower.jpg\"
-  alt=\"Weed or flower?\" width=\"240\" height=\"320\" /></div>\r\n<p>Some time ago
-  I read a book called \"The 5 Rules of Thought\" by Mary T. Browne. One point of
-  the book is that whatever you put your focus and energy into is what you are going
-  to create in your life. Ms. Browne recommends that people spend time each day to
-  visualize the outcomes they want in their lives. So, after I read the book, I decided
-  to start meditating.</p>"
+excerpt: I am experimenting with using meditation to create the life I desire
 layout: blog
 title: I call it meditation
 created: 1280504678

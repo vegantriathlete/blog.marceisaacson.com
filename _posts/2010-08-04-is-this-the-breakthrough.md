@@ -1,9 +1,5 @@
 ---
-excerpt: "<p>My phone interview went well enough that I am going in for a second round
-  interview tomorrow afternoon. I would be thrilled to pick up full-time employment.
-  This company has a tremendous backlog of projects, too. So, there would be job security
-  :-) Working on Drupal full-time will accelerate my learning phenomenally. Come on,
-  Universe! Let's start to rock and roll.</p>"
+excerpt: I had a good initial interview for a Drupal developer position
 layout: blog
 title: Is this the breakthrough?
 created: 1280977391

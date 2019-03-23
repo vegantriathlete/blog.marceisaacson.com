@@ -1,10 +1,5 @@
 ---
-excerpt: "<p>Last night I attended a Meetup for Drupal.The coordinator had prepared
-  a presentation. Throughout the evening while he delivered the presentation I interjected
-  points I felt were beneficial to everyone in the room. And yet, I must admit that
-  I know the real reason I was interjecting was that I wanted to show everyone how
-  smart I am and how much I have learned about Drupal. In other words, I was trying
-  to impress the people in the room.</p>"
+excerpt: I'm so embarrassed of my behavior
 layout: blog
 title: Can you count to 100?
 created: 1287095210

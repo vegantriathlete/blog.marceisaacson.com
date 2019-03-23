@@ -1,10 +1,5 @@
 ---
-excerpt: "<p>While I was beginning my meditation this morning, I noticed that it seemed
-  like I was rushing through my breaths. So, I thought about how I would breathe if
-  I knew that once I had finished my breath exercises those would be the last breaths
-  I would ever take. Certainly I wouldn't rush my breaths then. But, how would I spend
-  my last breaths? And how healthy would it be for me to hold onto each breath as
-  though it were one of my last?</p>"
+excerpt: Balancing holding on and letting go
 layout: blog
 title: Is it possible to live each day as though it is your last?
 created: 1283903811

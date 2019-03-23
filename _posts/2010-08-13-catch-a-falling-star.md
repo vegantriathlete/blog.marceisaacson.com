@@ -1,6 +1,5 @@
 ---
-excerpt: "<div class=\"blogphoto\"><img src=\"/sites/blog.marceisaacson.com/files/pictures/shootingstar.jpg\"
-  alt=\"Shooting Star\" width=\"250\" height=\"200\" /></div>\r"
+excerpt: Watching the Perseids, version 2010
 layout: blog
 title: Catch a falling star
 created: 1281742719

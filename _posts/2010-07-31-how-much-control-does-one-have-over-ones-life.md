@@ -1,11 +1,5 @@
 ---
-excerpt: "<p>I think that most people would agree that I march to a different drummer
-  -- maybe not 100% of the time, but more than most others do or are willing to. This
-  is a tendency that has continued to manifest itself to a greater extent as I have
-  gotten older, much to the concern of some of those in my life. Part of my desire
-  to march to my own drummer is that I want to feel a sense of control over my life.
-  In an effort to exercise that control I have been willing to take certain risks.
-  A case in point is my current employment situation.</p>"
+excerpt: Let's see if my attitude can determine my altitude
 layout: blog
 title: How much control does one have over ones life?
 created: 1280626733

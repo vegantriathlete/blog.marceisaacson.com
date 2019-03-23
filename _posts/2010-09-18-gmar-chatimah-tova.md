@@ -1,10 +1,5 @@
 ---
-excerpt: "<p>It is almost the end of Yom Kippur. My fast has been reasonably easy.</p>\r\n<p>This
-  morning I attended services and continued my practice from last year: I created
-  my own sacred space by covering myself with my tallit and engaged in my own form
-  of prayer. One different twist this year was that a friend of mine got married today.
-  So, I left my services this morning early and headed out to his ceremony. He was
-  married in a traditional Catholic ceremony.</p>"
+excerpt: How attending a Catholic wedding on Yom Kippur started the year out well for me
 layout: blog
 title: Gmar chatimah tova
 created: 1284854821

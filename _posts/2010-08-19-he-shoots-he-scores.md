@@ -1,11 +1,5 @@
 ---
-excerpt: "<p>So I would say that I hit one out of the park today on my first real
-  (although partial) day on the job. For those of you who are interested in the technical
-  details: The client needed to be able to put HTML code in the title of a block,
-  which is something that Drupal does not allow. I developed a simple, yet effective
-  and extensible workaround. I haven't taken it to the point of writing an actual
-  module; that would take considerably more time and effort. But, if the client decides
-  that they want to pay me to do so, I am prepared with a plan to create the module.</p>"
+excerpt: Coming up with a creative solution for a Drupal site
 layout: blog
 title: He shoots ... he scores!
 created: 1282277240

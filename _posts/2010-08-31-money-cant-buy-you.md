@@ -1,5 +1,5 @@
 ---
-excerpt: "<p>a job?</p>"
+excerpt: a job?
 layout: blog
 title: Money can't buy you ...
 created: 1283276674

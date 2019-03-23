@@ -1,10 +1,5 @@
 ---
-excerpt: "This morning as I was placing an envelope from a card we received in the
-  mail in the recycling bin, I noticed that the two stamps on it had not been post
-  marked. So, I started to retrieve a pair of scissors so that I could cut the stamps
-  from the envelope and set them aside for later when I could soak them off and save
-  them for reuse. Then, it suddenly dawned on me that this would be unfair for me
-  to do.\r\n\r"
+excerpt: Align my actions with my true values
 layout: blog
 title: Stamp out dishonesty
 created: 1293733666

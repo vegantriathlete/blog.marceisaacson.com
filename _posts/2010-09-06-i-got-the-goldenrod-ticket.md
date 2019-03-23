@@ -1,10 +1,5 @@
 ---
-excerpt: "<p>I have received the first of two letters that provide me my employee
-  information to be part of the sub pool for Jefferson County. Once I get the second
-  letter, which contains my password, I will be able to sign in and finish the application
-  process. It is encouraging that my paperwork was processed so quickly; we had been
-  told that it could take three weeks or more. It appears that I have been moved to
-  the front of the line.</p>"
+excerpt: I'll be joining the substitute teacher pool soon
 layout: blog
 title: I got the golden(rod) ticket!
 created: 1283801382

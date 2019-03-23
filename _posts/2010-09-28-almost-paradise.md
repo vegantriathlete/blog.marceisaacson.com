@@ -1,7 +1,5 @@
 ---
-excerpt: "<div class=\"blogphoto\"><img src=\"/sites/blog.marceisaacson.com/files/pictures/Tree-Hugger.jpg\"
-  alt=\"Marc hugging aspen tree on trail in Telluride\" width=\"572\" height=\"428\"
-  /></div>\r\n<p>The Universe has a funny sense of humor.</p>"
+excerpt: Taking a weekend vacation to Telluride
 layout: blog
 title: Almost Paradise
 created: 1285697504
