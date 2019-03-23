@@ -1,33 +1,34 @@
-body {
-  font-family: Raleway, Roboto, Helvetica, Arial, sans-serif;
-}
+.page-content {
+  a {
+    font-style: italic;
+  }
 
-.excerpt {
-  margin-bottom: 15px;
-  margin-top: -15px;
-}
+  .excerpt {
+    margin-bottom: 15px;
+    margin-top: -15px;
+  }
 
-.post .blogphoto {
-  text-align: center;
-}
+  .post .blogphoto {
+    text-align: center;
+  }
 
-.pagination {
-  margin-bottom: 15px;
-  margin-top: 15px;
-}
+  .pagination {
+    margin-bottom: 15px;
+    margin-top: 15px;
+  }
 
-.pagination a.previous,
-.pagination a.next {
-  border: 2px solid #0099CC;
-  border-radius: 5px;
-  color: #0099cc;
-  display: inline-block;
-  padding: 5px;
-}
+  .pagination a.previous,
+  .pagination a.next {
+    border: 2px solid $brand-color;
+    border-radius: 5px;
+    color: $brand-color;
+    display: inline-block;
+    padding: 5px;
 
-.pagination a.previous:hover,
-.pagination a.next:hover {
-  background-color: #008CBA;
-  color: white;
-  text-decoration: none;
+    &:hover {
+      background-color: darken($brand-color, 15%);
+      color: white;
+      text-decoration: none;
+    }
+  }
 }
