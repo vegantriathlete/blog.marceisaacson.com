@@ -1,6 +1,5 @@
 ---
-excerpt: "<p>I wrote some things down yesterday and today after going for a walk.</p><p>Yesterday's
-  thoughts:</p><p>&nbsp;</p>"
+excerpt: Keeping an open mind and enjoying the "now".
 layout: blog
 title: Thoughts I have been thinking
 created: 1465837133

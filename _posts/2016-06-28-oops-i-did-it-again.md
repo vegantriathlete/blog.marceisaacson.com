@@ -1,10 +1,5 @@
 ---
-excerpt: "<p>Overall, I had a great time at Udemy Live. I'm definitely looking forward
-  to attending again next year. It's not important for me to record all the details
-  of the weekend. The highlight was getting the chance to meet fellow instructors
-  and Udemy staff in person. The two other things that I will note are that I did
-  end up really enjoying Oz, The Mentalist, and Seth Godin's keynote, even though
-  I had scoffed at both of those things when they were announced.</p>"
+excerpt: It's not what you say, it's how you say it.
 layout: blog
 title: Oops, I did it again
 created: 1467122820

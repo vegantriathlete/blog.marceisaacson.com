@@ -1,11 +1,5 @@
 ---
-excerpt: "<p>I've been filling out applications to become a full-time employee of
-  different web development companies. I did get one response that said they couldn't
-  even come close to my expected salary range. Apart from that, it's been a deafening
-  silence. (I guess I never did write about interviewing with a company that did extend
-  an offer for $95,000. However, we had discussed that I was looking for $115K - $125K.
-  On all my applications since then, I've been specifying that I was seeking $120K
-  - $130K.)</p>"
+excerpt: I am basically unemployed.
 layout: blog
 title: Here we are, again
 created: 1482171175

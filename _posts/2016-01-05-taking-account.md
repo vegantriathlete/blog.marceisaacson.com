@@ -1,9 +1,5 @@
 ---
-excerpt: "<p>I've been working on my 2015 Year in Review this morning. The information
-  is available at&nbsp;https://github.com/MarcEIsaacson/2015-Ridiculously-Open-Repository.
-  I'm not going to repeat everything here.</p><p>I have been fighting a cold for many
-  weeks. It's hanging on its last legs today. I think I will resume some exercise
-  starting today.</p>"
+excerpt: A brief look back at 2015
 layout: blog
 title: Taking Account
 created: 1452022012

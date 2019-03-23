@@ -1,9 +1,6 @@
 ---
-excerpt: "<p>I've started doing (at least a few) things a little bit differently in
-  2016. Maybe there is still more that I'll need to do differently.</p><p>After fighting
-  against a cold for a ridiculous amount of time, I have begun exercising again. It's
-  not just about getting into shape; it's also about making sure that I don't just
-  sit in front of my computer all day long seven days a week.</p>"
+excerpt: I've started doing (at least a few) things a little bit differently in
+  2016. Maybe there is still more that I'll need to do differently.
 layout: blog
 title: Checking in
 created: 1454204742

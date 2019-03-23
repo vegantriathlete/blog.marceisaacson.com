@@ -1,10 +1,5 @@
 ---
-excerpt: '<p>Recently I came across a Tedx talk in which the speaker said "leaders
-  are readers" and that everybody should be reading every day. He went as far as to
-  say we could all afford to spend 10 minutes reading every day, and if we did so
-  we would end up reading twelve books each year. What he said made sense to me and
-  I decided to start reading. I chose a book, "Callings: Finding and Following an
-  Authentic Life", by Gregg Levoy that I had in my basement and which I had read previously.'
+excerpt: I'm going to push myself outside my comfort zone.
 layout: blog
 title: I think I need to dance now
 created: 1463788323

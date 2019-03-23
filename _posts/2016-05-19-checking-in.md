@@ -1,12 +1,5 @@
 ---
-excerpt: "<p>TL;DR I started this blog so that I would remember times when I was struggling,
-  even after better times might come along. I've still got my share of struggles and
-  learning I'm experiencing now.</p><p>I've been remiss in posting to this blog. I
-  was good about posting every day when I was training for the IronMan. It was easy
-  to document my workout. I didn't really talk about much else, though. I have been
-  reasonably disciplined about continuing to follow a workout schedule. But, that's
-  not why I'm making sure to sit down and write this post now. Let me finally get
-  to it.</p>"
+excerpt: I need to adjust my expectations.
 layout: blog
 title: Checking In
 created: 1463681758

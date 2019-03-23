@@ -1,11 +1,5 @@
 ---
-excerpt: <p>First off, the title is not about stating the circumstances in my life.
-  There is nothing going wrong right now. Things are going well overall. The title
-  is meant to be a reality check. It's a true question. How many things could really
-  go wrong? There are only so many that can go wrong. Many things will go right. Therefore,
-  it's not necessary for me to plan for a ridiculous amount of things going wrong.
-  I don't need a plan "A" and back it up with plans, B, C, D, E, F, . . . Plan "A"
-  and Plan "B" should generally be sufficient.</p>
+excerpt: I don't need to have so many backup plans.
 layout: blog
 title: How many things could really go wrong?
 created: 1466012771

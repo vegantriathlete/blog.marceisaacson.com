@@ -1,11 +1,5 @@
 ---
-excerpt: <p>It was just over two weeks ago that I wrote about reading "Callings" by
-  Gregg Levoy. I finished it a few days ago. I also contacted the author to tell him
-  I'd like to interview him for my <a href="https://www.youtube.com/watch?v=y8amCnnn_Jk&amp;list=PL88FGxst5S8VM7mis_7OHjmnJwGkVALsR"
-  target="_blank">"Inspiration for Success" Blabcast</a>. He got back to me that same
-  day telling me that he'd be willing to do it. I followed up to answer some of his
-  questions and to get the ball rolling. Unfortunately, I have not received a response.
-  Bummer.
+excerpt: Some things that I'd like to take to completion.
 layout: blog
 title: Following through
 created: 1465047131

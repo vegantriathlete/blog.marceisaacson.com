@@ -1,8 +1,6 @@
 ---
-excerpt: "<p>It's so important for me to record this right now. It's the reason I
-  started this blog in the first place.</p><p>I feel like I've had my whole world
-  turned upside down. I feel like I'm a fool who has been living in an alternate reality,
-  a fantasy world. I feel like I've been totally delusional.</p>"
+excerpt: It's so important for me to record this right now. It's the reason I
+  started this blog in the first place.
 layout: blog
 title: I was wrong
 created: 1478711645
