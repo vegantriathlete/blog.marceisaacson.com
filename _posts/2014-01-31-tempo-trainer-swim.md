@@ -1,0 +1,12 @@
+---
+excerpt: "<p>I don't know what conclusions to draw from today's workout. I can say
+  that my strokes per length increased throughout the workout. If it weren't for the
+  very last repeat, my fastest repeat would have been the first one. So, one comment
+  I would make is that I still need to develop much more strength / endurance. Increasing
+  my stroke rate does not have any positive impact on my speed. On the contrary, I
+  showed a more-or-less steady decrease in my speed as I increased my stroke rate."
+layout: training_diary
+title: Tempo Trainer Swim
+created: 1391197981
+---
+<p>I don't know what conclusions to draw from today's workout. I can say that my strokes per length increased throughout the workout. If it weren't for the very last repeat, my fastest repeat would have been the first one. So, one comment I would make is that I still need to develop much more strength / endurance. Increasing my stroke rate does not have any positive impact on my speed. On the contrary, I showed a more-or-less steady decrease in my speed as I increased my stroke rate. But, then there are the repeats starting at 1.26 seconds per stroke that seem to paint the opposite picture.</p><p>It's very hard for me, as a numbers person, to not be able to quantify my current swimming ability in any way that can direct me to what I need to do to achieve the greatest improvement. I guess I'll just have to stick with a qualitative and instinctual assessment that it's still about improving strength and endurance. But, I still want some idea of the best way for me to achieve that improvement. I guess that it will come naturally with more laps.</p><p>I still find it a bit disturbing to think about improving strength and endurance. I thought that my improvement was supposed to be based entirely on improving technique. But, maybe that's too literal and simplistic. It may be more reasonable to recognize that the increase in strength and endurance will allow me to maintain good technique for longer periods, as opposed to holding onto the perspective that good technique will reduce (if not eliminate) the need for strength and endurance.</p><p>I'm probably making myself needlessly crazy by analyzing things too closely and frequently right now. I probably need to just keep on keeping on for long enough and allow some things to happen.</p><p>Oh well, here's the chart:</p><p><img src="/sites/blog.marceisaacson.com/files/uploads/tempo-trainer-20140131.png" alt="Tempo Trainer 20140131 Chart" width="547" height="312" /></p>

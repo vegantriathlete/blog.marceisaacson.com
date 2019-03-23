@@ -1,0 +1,9 @@
+---
+excerpt: "<p>I did get out of bed more quickly this morning. But, then I had to find
+  my wallet and keys. And I had to ride my bike more slowly because there is snow
+  on the ground!</p>"
+layout: training_diary
+title: Masters Swim
+created: 1385049592
+---
+<p>I did get out of bed more quickly this morning. But, then I had to find my wallet and keys. And I had to ride my bike more slowly because there is snow on the ground!</p><p>Scott prints out the workouts and puts them on a kickboard. So, even though I started the workout a bit late, I still did it from the beginning. Today's workout was a lot of crawl. There were a two or three sets that were Choice and I did some backstroke. Scott didn't give me any pointers today. I'm still continuing to think about keeping my elbow up and my arm extended when I breathe. I think that I may have corrected the position of my hand entry.</p><p>I did 1500m in today's workout.</p><p>While I'm swimming, I still tend to pretend that I'm swimming really fast. When I look over at the swimmers in lane two I see that I've still got lots of work to do to pick up my pace. I'm not getting impatient with the learning process. But, I do wonder what I need to change and what it's going to take for things to click. I wonder if my improvement will be gradual or if there will be a point that I make some quantum leap. Right now I'll have to hang in there and have faith that I'll make it out of the slow lane at some point.</p><p>It felt like the ride home was colder than the ride to the workout. I wouldn't be surprised if the temperature is actually going to drop to the "high" for the day.</p><p>My phone is saying that it's currently 18 degrees with a forecasted high of 27. I thought that yesterday they were predicting a high of 21. I wonder what the temperature was when I was going to the workout and when I was coming back home. Fortunately, it's not that long of a ride and I didn't find it to be too bad at all.</p>

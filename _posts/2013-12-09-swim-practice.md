@@ -1,0 +1,13 @@
+---
+excerpt: "<p>The workout went a lot better than I thought it was going to. I guess
+  my brain had a chance to process some things since yesterday.</p><p>I did about
+  100 yards each of the swing/switch drills, going from just the elbow above the water,
+  upper arm above the water, finger tips dragging in the water to ear hops.</p><p>I
+  think that my kick was much closer to my normal (version of a) two-beat kick with
+  the finger tip and ear hop drills. With the first two, I found that I was basically
+  fluttering lightly continuously.</p>"
+layout: training_diary
+title: Swim Practice
+created: 1386612708
+---
+<p>The workout went a lot better than I thought it was going to. I guess my brain had a chance to process some things since yesterday.</p><p>I did about 100 yards each of the swing/switch drills, going from just the elbow above the water, upper arm above the water, finger tips dragging in the water to ear hops.</p><p>I think that my kick was much closer to my normal (version of a) two-beat kick with the finger tip and ear hop drills. With the first two, I found that I was basically fluttering lightly continuously.</p><p>I found it very hard to press my buoy sufficiently with those first two drills. I wonder if that will improve during the course of the week.</p><p>Breathing was a bit off. It's still a lot of work and concentration for me to keep my arms on a wide track and to rotate my body and head just enough to get a breath. There were definitely times that I lifted my head to breath. And there were many times that I didn't really even get a breath.</p><p>I think I did a fair job of keeping the correct head position and body rotation on the non-breathing strokes.</p><p>I think that I did a reasonbly good job of keeping my lead arm relaxed and in the proper position.</p><p>I also did a fair job of keeping my arms on a wide track, leading with my elbow and keeping my forearm and hand relaxed. I don't think that I was reaching with my hand, but I can't say for certain. I will continue to remind myself to pay attention to that as I practice.</p><p>I really enjoyed doing the ear hop drill, and not just because it most closely resembles full-stroke swimming; I think that little hop is helping to queue me to use a hip drive to propel my hand into the water and propel my body forward. I've still got a lot of work to do on the drill, but I was satisfied with the progress I was able to make today.</p><p>So, after having completed my first workout since yesterday's lesson I do have some hope that one week may be enough practice after all. I'm not saying that I will have all of the pieces perfectly mastered. But, I think that I will likely be ready to move on to the next set of drills.</p>

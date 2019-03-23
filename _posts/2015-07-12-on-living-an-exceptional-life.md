@@ -1,0 +1,11 @@
+---
+excerpt: <p>I haven't posted anything really personal for quite some time. So, here's
+  a really short piece.</p><p>The TL;DR - As I was doing my run workout today I had
+  the thought "I'd rather fail at living an exceptional life than succeed at living
+  a mediocre life."</p><p>Here's a tiny bit more detail about why I was having that
+  thought. I'm pursuing a lot of big dreams right now.</p>
+layout: blog
+title: On Living an Exceptional Life
+created: 1436723036
+---
+<p>I haven't posted anything really personal for quite some time. So, here's a really short piece.</p><p>The TL;DR - As I was doing my run workout today I had the thought "I'd rather fail at living an exceptional life than succeed at living a mediocre life."</p><p>Here's a tiny bit more detail about why I was having that thought. I'm pursuing a lot of big dreams right now.</p><p>All these training diary entries are part of my IronMan quest. I originally had the goal of completing and IronMan in under 12 hours for my 50th birthday. These past two seasons of training have given me a bit of feedback that I may need to revise my expectation on that.</p><p>I've been working on the side to create <a href="https://www.udemy.com/u/marcisaacson" target="_blank">Udemy courses</a>. It's part of my plan to become truly my own boss and truly in charge of my schedule. I have a fantasy (just to be honest about it) of building my income from selling online courses to $100,000 / month. At this point I'm not even in the same galaxy as that goal. I've earned a grand total of $41 in just over five months.</p><p>If I can reach an adequate monthly income (through online courses or whatever means), I want to knock down my current house and build the house of my dreams on my property. I also want to do my dream architectural landscaping on my property.</p><p>I've got other dreams and visions I'd like to manifest as well. But, I think those three show just what an exceptional life I'm looking to live.</p><p>Now let's see how all that works out for me.</p><p>I give thanks to the Universe for the abundance it provides me. I surrender and am open and ready to receive.</p><p>Bhavatu sabba mangalam - May all beings be happy</p>

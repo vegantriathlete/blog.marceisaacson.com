@@ -1,0 +1,7 @@
+---
+excerpt: "<p>It's even okay to pay somebody to help.</p>"
+layout: blog
+title: It's okay to ask for help
+created: 1387381274
+---
+<p>It's even okay to pay somebody to help.</p><p>Getting the one-on-one coaching for swimming has been good for me in more than just improving my swimming. It has really opened my eyes to the value of paying somebody to teach me something. I do believe that I have finally shed my reluctance to seek (and pay for) help. Despite the fact that I feel that I can figure something out for myself, it doesn't mean that I must figure it out myself. While it may be true that I could figure it out for myself (at some point), what I have seen is that I will learn it so much faster by seeking the assistance of somebody who has already figured it out. There is no point in my having to reinvent the wheel as the sayiing goes.</p><p>Asking for help does not mean that I'm not smart or not willing to work hard. Getting help from somebody does not mean that I can never surpass what my teacher was able to achieve. Asking for and receiving help is about being smarter. It allows me to work more efficiently and more effectively. I can work smarter instead of harder. There is plenty of opportunity to work hard at things. I need to make sure that I'm saving that hard work for when it's going to do the most good.</p><p>I give thanks to the Universe for the abundance it provides me. I surrender and am open and ready to receive.</p><p>Bhavatu, sabba, mangalam -- May all beings be happy.</p>

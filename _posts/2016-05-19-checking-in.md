@@ -1,0 +1,14 @@
+---
+excerpt: "<p>TL;DR I started this blog so that I would remember times when I was struggling,
+  even after better times might come along. I've still got my share of struggles and
+  learning I'm experiencing now.</p><p>I've been remiss in posting to this blog. I
+  was good about posting every day when I was training for the IronMan. It was easy
+  to document my workout. I didn't really talk about much else, though. I have been
+  reasonably disciplined about continuing to follow a workout schedule. But, that's
+  not why I'm making sure to sit down and write this post now. Let me finally get
+  to it.</p>"
+layout: blog
+title: Checking In
+created: 1463681758
+---
+<p>TL;DR I started this blog so that I would remember times when I was struggling, even after better times might come along. I've still got my share of struggles and learning I'm experiencing now.</p><p>I've been remiss in posting to this blog. I was good about posting every day when I was training for the IronMan. It was easy to document my workout. I didn't really talk about much else, though. I have been reasonably disciplined about continuing to follow a workout schedule. But, that's not why I'm making sure to sit down and write this post now. Let me finally get to it.</p><p>I've had to change my expectations and approach to building a residual income selling digital information products. My first foray into the arena by creating some courses on Udemy has not gained much traction. One major mistake I made was failing to recognize how little of an online presence I had before starting that. There are other factors that contributed to my struggle as well. But, I'm choosing to work on building more of an online presence. In other words, I'm working to build an audience of loyal followers. At the moment, I'm pretty much just stumbling along blindly in the dark and doing my best to learn as I go.</p><p>I see that this is going to be a longer journey for me. I'm putting more focus on enjoying the journey and employing a strategy that allows me to continue the journey. One change I will be implementing is to take Saturdays off. I will do my best to maintain a beginner's mind as well. There are so many things that I thought I understood but didn't; so many things that I see I still have to learn; and so many things that I don't even know that I don't know yet.</p><p>Just to state some things explicitly: I have my "up" days and my "down" days; I continue to give myself pep talks and look to the day when things have fallen into place for me; I am prepared, and expecting, to spend years working on this; I'm somewhat astonished by how hard this is proving to be for me.</p><p>I give thanks to the Universe for the abundance it provides me. I surrender and am open and ready to receive.</p><p>Bhavatu sabba mangalam - May all beings be happy</p>

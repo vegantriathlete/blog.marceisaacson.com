@@ -1,0 +1,8 @@
+---
+excerpt: "<p>Yesterday I rode the stationary bike for a 30 minute strength workout.
+  Today I ran 30 minutes on the treadmill doing a similar type of strength workout.</p>"
+layout: blog
+title: Sunday Update
+created: 1448232977
+---
+<p>Yesterday I rode the stationary bike for a 30 minute strength workout. Today I ran 30 minutes on the treadmill doing a similar type of strength workout.</p><p>I'm seeing some positive signs (albeit very small) that some things are coming together for <a href="http://click.linksynergy.com/fs-bin/click?id=d0FYK41OBt4&amp;subid=&amp;offerid=323057.1&amp;type=10&amp;tmpid=14538&amp;RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fu%2Fmarcisaacson" target="_blank">me on Udemy</a>. It seems the changes I'm making to my <a href="http://click.linksynergy.com/fs-bin/click?id=d0FYK41OBt4&amp;subid=&amp;offerid=323057.1&amp;type=10&amp;tmpid=14538&amp;RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fgetting-started-with-drupal-for-total-beginners%2F" target="_blank">first course</a> are paying off. Coincidentally or not, Stack Social is also planning to include that course in a Drupal Dev bundle. With the release of Drupal 8 I think there may be more people coming to Udemy to learn Drupal. So, I think I stand a fair chance of being able to make a nice income off Drupal courses on Udemy. I've checked all the current offerings and I don't feel that the competition is very strong.</p><p>I've got lots of ideas for courses I can create and strategies I can implement to increase the momentum as well.</p><p>I can do this!</p><p>I give thanks to the Universe for the abundance it provides me. I surrender and am open and ready to receive.</p><p>Bhavatu sabba mangalam - May all beings be happy</p>

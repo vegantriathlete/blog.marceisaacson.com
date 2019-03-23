@@ -1,0 +1,9 @@
+---
+excerpt: "<p>I made a bit more progress today, just not as much as I made during the
+  three previous practices. I think I may have reached the point that I'm going to
+  have to focus more and practice more to create smaller incremental gains.</p>"
+layout: training_diary
+title: Swim Practice
+created: 1386863784
+---
+<p>I made a bit more progress today, just not as much as I made during the three previous practices. I think I may have reached the point that I'm going to have to focus more and practice more to create smaller incremental gains.</p><p>I would say that the first three drills were pretty comparable to how they were yesterday. On the ear-hop drill I did five repeats in the range of 10.5 - 11 strokes per length. For my last repeat I was determined to complete the length in 10 strokes and I did it in 9.5 strokes! I may have slowed my stroke rate down just a tiny bit to give me that bit of extra glide before the next stroke.</p><p>I did not have to take any breaths on the six lengths of the ear-hop drill. I was not holding my breath, either. I was just swimming at a nice relaxed pace with a nice relaxed stroke and the ease of swimming meant that I didn't need any more air during the length. If I were swimming 25 yards I would have needed to take a breath.</p><p>I would say that the main thing I need to focus on for the next practice is leading more with my elbow on the recovery. I think I still tend to let my hand get a little bit too far forward.</p><p>The first drill actually seems harder to me now. But, I think that's because I'm so much more aware of the resistance and drag. Also, I am working much more to still maintain the proper technique on the rest of the stroke; I'm working to refine much more subtle things than when I did the drill the first times.</p><p>On the other hand, once I get to the ear-hop drills, I feel like a weight has been removed!</p>

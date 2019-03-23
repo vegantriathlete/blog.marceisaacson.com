@@ -1,0 +1,11 @@
+---
+excerpt: "<p>Tomorrow will mark not only my 48th birthday, but the culmination of
+  two years' worth of effort. I'll be participating in my first full IronMan triathlon!
+  Not too many weeks ago I thought it was highly improbable that I was going to be
+  able to finish the race. As of today, I'm reasonably confident that I can finish
+  it in about 15.5 hours.</p>"
+layout: blog
+title: Tomorrow is the big day!
+created: 1438470311
+---
+<p>Tomorrow will mark not only my 48th birthday, but the culmination of two years' worth of effort. I'll be participating in my first full IronMan triathlon! Not too many weeks ago I thought it was highly improbable that I was going to be able to finish the race. As of today, I'm reasonably confident that I can finish it in about 15.5 hours.</p><p>I'm going to need to pay attention to all the bike cutoff times so that I don't have my day ended prematurely. I'll likely be cutting things pretty close to allow myself to maintain a comfortable pace and to get off and stretch a little and rest a little at each aid station.</p><p>Here's my plan for tomorrow.</p><p>I'm aiming for a 90 minute swim. The water temperature should definitely allow for at least a wetsuit optional race and I will be opting to wear the wetsuit.</p><p>My plan for the bike is that it will take approximately 8.5 hours total clock time. This should not be a problem, as when I did the full course a couple of weekends ago I took only about 8:23 total clock time, including getting off the bike and spending some time inside a little general store on the route twice.</p><p>I'm figuring about a 5:12 marathon.</p><p>If you add all that up, you get 15:12. I'll throw in 18 minutes for transition, which should be more than generous enough. And there you have my 15:30 finish!</p><p>If all goes according to this plan, I should be crossing the finish line by 10:30 pm.</p><p>I'm so excited! I hope that I'm able to get a good night's sleep. I was up at 3:30 this morning. I'll be planning to get up at 3:30 tomorrow morning. Let's see if I can get to bed in the range of 7:30 - 8:30.</p><p>I give thanks to the Universe for the abundance it provides me. I surrender and am open and ready to receive.</p><p>Bhavatu sabba mangalam - May all beings be happy</p>

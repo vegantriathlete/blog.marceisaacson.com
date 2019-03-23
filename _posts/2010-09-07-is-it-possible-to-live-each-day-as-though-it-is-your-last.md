@@ -1,0 +1,15 @@
+---
+excerpt: "<p>While I was beginning my meditation this morning, I noticed that it seemed
+  like I was rushing through my breaths. So, I thought about how I would breathe if
+  I knew that once I had finished my breath exercises those would be the last breaths
+  I would ever take. Certainly I wouldn't rush my breaths then. But, how would I spend
+  my last breaths? And how healthy would it be for me to hold onto each breath as
+  though it were one of my last?</p>"
+layout: blog
+title: Is it possible to live each day as though it is your last?
+created: 1283903811
+---
+<p>While I was beginning my meditation this morning, I noticed that it seemed like I was rushing through my breaths. So, I thought about how I would breathe if I knew that once I had finished my breath exercises those would be the last breaths I would ever take. Certainly I wouldn't rush my breaths then. But, how would I spend my last breaths? And how healthy would it be for me to hold onto each breath as though it were one of my last?</p>
+<p>The question of how to treat each moment with the appreciation that it may be your last is not a simple mental exercise for me. My older dog, Tofu, is in kidney failure and has been for quite some time now. There is no way of knowing how quickly it will worsen and not much that can be done to slow the process. So, I try to cherish each moment that I have to spend with her. At the same time, I don't want each moment to be charged with fear of loss and desperation to squeeze every last bit of life out of her. There are times that I take for granted that she is still around, and act as though she is going to be here forever. There are times that I have to choke back tears thinking about what it is going to be like when she is gone. There are also times when I feel amazement that she is still around and feel so happy that she is. As she lay near me in the grass while I meditated this morning I felt that sense of amazement and gratitude.</p>
+<p>As I continued my meditation, I looked around my backyard and enjoyed the beautiful scenery and the cool, fresh morning air. I thought about how wonderful it was to be sitting there meditating. I let the question of how best to appreciate the moment while not clinging desperately to it float through my mind. And, I noticed that my breathing had slowed significantly as I had allowed myself to sink more deeply into my meditation.</p>
+<p>I give thanks to the Universe for the abundance it provides me. I surrender and I am open and ready to receive.</p>

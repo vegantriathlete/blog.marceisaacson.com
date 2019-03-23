@@ -1,0 +1,12 @@
+---
+excerpt: "<p>Today was the first time I had to ride for 45 minutes. I was concerned
+  how I was going to make it through the workout.</p><p>I rode on the Cybex upright
+  using the heart rate program at 138bpm. My heart rate may have been up a little
+  bit, because I did not feel like the bike was making me push as many Watts as other
+  workouts. It wasn't too hard to make it through the 45 minutes. I rode a total of
+  12.62 miles. this is equivalent of an average pace of about 16.8mph.</p>"
+layout: training_diary
+title: 'Stationary Bike #1'
+created: 1392502504
+---
+<p>Today was the first time I had to ride for 45 minutes. I was concerned how I was going to make it through the workout.</p><p>I rode on the Cybex upright using the heart rate program at 138bpm. My heart rate may have been up a little bit, because I did not feel like the bike was making me push as many Watts as other workouts. It wasn't too hard to make it through the 45 minutes. I rode a total of 12.62 miles. this is equivalent of an average pace of about 16.8mph.</p><p>Looking through the previous workouts, it appears that my best average pace so far has been about 17.3mph. But, that was on the recumbent. So, I don't know if I can compare the numbers directly, as it seems different bikes do calculate the numbers a bit differently. The best pace I have had on this particular bike was about 17.2mph. The slowest pace so far has been an average of 16.7mph.</p><p>So, this workout was on the low end for my average pace. But, I don't mind that the first time I had to increase the time my pace was a bit slower. My target pace for 2014 is about 17.1mph for the half IM distance. But, I don't know how well the pace on a stationary bike relates to actually riding on the road. And, in any case, I think that I'm working as hard as I can. I think that using the heart rate workout and riding on a stationary bike is giving me the best workout I can accomplish. So, I'll just have to be persistent and see what ends up happening.</p><p>Next Saturday I jump up to 1 hour and 15 minutes. The Saturday after that the workout is 1 hour 30 minutes. In a few weeks I may need to start riding outdoors. I don't know if I can even stay on the bike for 1.5 hours, much less longer than that. Even 1 hour and 15 minutes may be pushing the limits. I may need to consider using my rollers and / or purchasing a resistance trainer.</p>

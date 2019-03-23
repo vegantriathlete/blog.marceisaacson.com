@@ -1,0 +1,19 @@
+---
+excerpt: "<div class=\"blogphoto\"><img src=\"/sites/blog.marceisaacson.com/files/pictures/weed-flower.jpg\"
+  alt=\"Weed or flower?\" width=\"240\" height=\"320\" /></div>\r\n<p>Some time ago
+  I read a book called \"The 5 Rules of Thought\" by Mary T. Browne. One point of
+  the book is that whatever you put your focus and energy into is what you are going
+  to create in your life. Ms. Browne recommends that people spend time each day to
+  visualize the outcomes they want in their lives. So, after I read the book, I decided
+  to start meditating.</p>"
+layout: blog
+title: I call it meditation
+created: 1280504678
+---
+<div class="blogphoto"><img src="/sites/blog.marceisaacson.com/files/pictures/weed-flower.jpg" alt="Weed or flower?" width="240" height="320" /></div>
+<p>Some time ago I read a book called "The 5 Rules of Thought" by Mary T. Browne. One point of the book is that whatever you put your focus and energy into is what you are going to create in your life. Ms. Browne recommends that people spend time each day to visualize the outcomes they want in their lives. So, after I read the book, I decided to start meditating.</p>
+<p>Initially I started with two minutes of meditation that consisted of repeating the phrase "the divine force burns within me like a beautiful flame" in my mind. Over time I have lengthened the session and experimented with different ways to structure it. Rather than boring you with all the details of the entire progression, I'll jump to my current practice. The intent is to begin each morning by sitting in my sun room working through eight breathing exercises of ten breaths each and finishing with ten relaxed breaths while holding the "butterfly" stretch. I then thank the universe for the abundance it provides me and declare that I surrender and am open and ready to receive. This takes approximately 25 - 30 minutes.</p>
+<p>I have read a number of books on meditation to get a better understanding of how one is "supposed" to meditate. The funny thing is that one of the things one is "supposed" to do when one meditates is to let go and clear the mind; it is counter to the practice of meditation to focus on whether one is meditating correctly or not, whether that be during the meditation itself or when one is not sitting on the cushion. Meditation purportedly helps one to achieve a state of awareness without attachment or judgement. This approach of non-attachment and non-judgement also implies that one "should not" approach meditation with a specific objective. Keep in mind that these are my best interpretations of the things I have read. Maybe I've got it all messed up. Well, I'll just be aware of my interpretations and not place judgement on them.</p>
+<p>Anyhow, whatever it is that I am currently doing in the sun room in the morning, I call it "meditation." I'm not trying to judge it, I'm just naming it. And that photograph at the top of the blog: I am aware of the plant and I call it a flower, although it might actually be a weed. The definition of a weed is a plant that is growing some place that we don't want it to grow. So whether something is a flower or a weed is a matter of perspective. The stuff that appears in the background of the photo is my wildflower garden.</p>
+<p>All of this naming may indicate a certain amount of attachment and judgement. Such is life. I don't believe that one is meant to sit in a cave (or other form of isolation) being totally unattached and without a perspective of any sort. Doesn't naming something create a distinction? And doesn't distinction help create awareness? Doesn't awareness grant a person a bit of perspective? Maybe it's possible to have unattached attachment and non-judgemental judgement. I don't know. I'm just on this journey called life.</p>
+<p>Thanks for being a part of my journey. Thanks for reading this thing that I call my blog.</p>

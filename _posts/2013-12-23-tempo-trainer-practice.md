@@ -1,0 +1,12 @@
+---
+excerpt: "<p>I did 2 X 50yd @ (seconds / stroke) 1:21; 1:20; 1:19; 1:18; 1:17; 1:18;
+  1:19; 1:20; 1:21. This was too aggressive. My strokes per length cilmbed and my
+  time increased. I don't know the exact time of my first repetition, but I know it
+  was definitely under one minute by a fair amount. As I recall, I took 37 or 38 strokes.
+  On the last repetition I took 41 or 42 strokes and something like 57 seconds. I
+  was tiring myself out far too much and getting too little return.</p>"
+layout: training_diary
+title: Tempo Trainer Practice
+created: 1387816633
+---
+<p>I did 2 X 50yd @ (seconds / stroke) 1:21; 1:20; 1:19; 1:18; 1:17; 1:18; 1:19; 1:20; 1:21. This was too aggressive. My strokes per length cilmbed and my time increased. I don't know the exact time of my first repetition, but I know it was definitely under one minute by a fair amount. As I recall, I took 37 or 38 strokes. On the last repetition I took 41 or 42 strokes and something like 57 seconds. I was tiring myself out far too much and getting too little return.</p><p>(At this point in time) I really want to target 40 strokes and 53 seconds. I think that the data I gathered at yesterday's lesson is valid and serves as a good benchmark for me.</p><p>I could tell that I wasted a lot of energy today. My hands were really noisy in the water, despite the fact that I was careful about paying attention to my recovery and ensuring that I was spearing my hands into the water at a steeper angle. So, I'm going to have to continue to fine tune this.</p><p>On the other hand, I would say that my kick was very good.</p><p>With all the emphasis I put on the recovery and hand entry, I don't think I was as aware of my "weightless" arm. I thought about it some during the workout and it seemed like my position was reasonably good. But, I think that I probably needed to relax my hand a little more.</p><p>There were moments on each length during yesterday's lesson that I definitely felt the flow and propulsion when I completed the switch. I never did feel that sensation today. On the contrary, I felt like I was dragging through the water.</p><p>The fitness center is closed tomorrow and Wednesday. For Thursday's workout I will use 1:25; 1:24; 1:23; 1:22; 1:21; 1:22; 1:23; 1:24; 1:25 and see how that goes. My goal is to find a stroke rate that allows me to feel fluid and comfortable. Then I will work from that point to gradually increase the stroke rate.</p>

@@ -1,0 +1,13 @@
+---
+excerpt: '<p>It''s not that I haven''t posted an entry in a while that''s the issue
+  for which I have chosen the title. It''s the fact that with all the "important"
+  things I have posted about my life in this blog, I have still not posted anything
+  about the fact that I am expecting a child. My wife, Lana, is due to give birth
+  to our son, Elijah on January 18, 2012. So, I am including my first draft of the
+  "prayer" I am planning to read to my son during his naming in February.</p><p style="padding-left:
+  30px;">To my Son, Elijah</p>'
+layout: blog
+title: It took me long enough
+created: 1317064085
+---
+<p>It's not that I haven't posted an entry in a while that's the issue for which I have chosen the title. It's the fact that with all the "important" things I have posted about my life in this blog, I have still not posted anything about the fact that I am expecting a child. My wife, Lana, is due to give birth to our son, Elijah on January 18, 2012. So, I am including my first draft of the "prayer" I am planning to read to my son during his naming in February.</p><p style="padding-left: 30px;">To my Son, Elijah</p><p style="padding-left: 30px;">You are a miracle created from a source for which I have neither the understanding nor the words to describe. You come through me, but are not of me. For I could no more create one single cell in your body, than I could assemble all those individual cells to make the living, breathing being that now exists in front of me.</p><p style="padding-left: 30px;">I named you after the biblical character known as Elijah the Prophet because it is my wish that you will be able to see reality and truth, will be able to speak out and take actions based on what is real and true and, perhaps most importantly, be able to speak out and take actions based on your vision of what can be. Know that it is my heart's true desire that you become the person who you were born to be. I pray only that I may fulfill my role in helping you to become that person.</p><p style="padding-left: 30px;">I know that I have been granted a period of time to act as a steward in ensuring your growth and well-being. I also know that the time will come that I will need to release my stewardship. At some point you must answer to only yourself and your creator.</p><p style="padding-left: 30px;">Be well, my son, and enjoy this amazing journey called Life. You are loved by those around you and you are supported by and are a part of a force that is eternal.</p><p>I give thanks to the Universe for the abundance it provides me. I surrender and am open and ready to receive.</p><p>Bhavatu sabba mangalam - May all beings be happy</p>

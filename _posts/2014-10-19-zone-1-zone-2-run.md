@@ -1,0 +1,7 @@
+---
+excerpt: "<p>I was pretty grumpy early on in my run today.</p>"
+layout: training_diary
+title: Zone 1 - Zone 2 Run
+created: 1413741245
+---
+<p>I was pretty grumpy early on in my run today.</p><p>It was around 50 degrees when I headed out and I wore shorts and a t-shirt. While it was a bit cool, I was glad that I was dressed this way. My rule of "if it's above 50 . . ." still applies and it was refreshing to be out in the crisp air. My problem was that I felt somewhat tired and I definitely felt like there was a need to use the toilet lurking in the wings. I pressed ahead with the workout and did my best to relax into it and enjoy it. I ended up heading West on the Bear Creek Trail from Garrison / Estes. I eventually made my way onto the Fox Hole golf course, and I mean literally onto the golf course. There is no road that gets you back to CO 8 from within the course. As long as I was running along the golf cart path and I was near one of their bathroom stops, I decided to take advantage of the opportunity to relieve myself since it was apparent I had ran myself much to far out to make it back within the planned workout time. I knew that I would end up walking for a good amount of time and didn't want to continue holding back the continuing need. I must say that I felt much better having taken that pause that refreshes. The remainder of the workout was much more enjoyable.</p><p>I ended up needing to walk for almost 45 minutes to get back home after having run through the planned 90 minutes.</p>

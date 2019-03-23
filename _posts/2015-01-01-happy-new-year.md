@@ -1,0 +1,11 @@
+---
+excerpt: "<p>I don't want to spend the time to do a reasonable recap of the past year;
+  if I set that as a goal for myself, it would be too daunting for me to sit down
+  in front of the computer and compose a post. Instead, I will start just by saying
+  that 2014 was a just about perfect year for me. I'll take a 2015 that is just like
+  2014. Here are some things (in no particular order) that made 2014 so incredible:</p><p>&nbsp;</p>"
+layout: blog
+title: Happy New Year!
+created: 1420156021
+---
+<p>I don't want to spend the time to do a reasonable recap of the past year; if I set that as a goal for myself, it would be too daunting for me to sit down in front of the computer and compose a post. Instead, I will start just by saying that 2014 was a just about perfect year for me. I'll take a 2015 that is just like 2014. Here are some things (in no particular order) that made 2014 so incredible:</p><p>&nbsp;</p><ul><li>The weather was superb. It was neither too hot nor too cold. It was neither too wet nor too dry. This was the best year weatherwise in the over eight years I have lived in Colorado.</li><li>Lana and my businesses did very well. I believe our combined income was the best it's been in our entire marriage.</li><li>Eli thrived at the Goddard School.</li><li>I got back into exercise.</li><li>Eli was so much fun to be with. He has become such a curious, happy and funny boy. His vocabulary is exceptional. He is now potty trained.</li><li>Lana and I finished the year with an amazing trip to Costa Rica, thanks to my sister's willingness to watch Eli for us. We flew to O'Hare on December 18; drove to Indiana with Eli; stayed at my sister's a couple of nights; left Eli in my sister's care and drove back to O'Hare really early on the 20th to fly into Costa Rica; flew back to O'Hare on the 30th; met up with my sister at our hotel on the 31st to reunite with Eli and fly home to Denver.</li></ul><p>&nbsp;</p><p>My plans for 2015 already include completing my first IronMan triathlon on my 48th birthday and moving closer to being my own boss by publishing courses on Udemy for my Teach Yourself Drupal R.O.O.S.T.S. concept.</p><p>I give thanks to the Universe for the abundance it provides me. I surrender and am open and ready to receive.</p><p>Bhavatu sabba mangalam - May all beings be happy</p>

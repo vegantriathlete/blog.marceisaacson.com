@@ -1,0 +1,20 @@
+---
+excerpt: "<p>Last night I attended a Meetup for Drupal.The coordinator had prepared
+  a presentation. Throughout the evening while he delivered the presentation I interjected
+  points I felt were beneficial to everyone in the room. And yet, I must admit that
+  I know the real reason I was interjecting was that I wanted to show everyone how
+  smart I am and how much I have learned about Drupal. In other words, I was trying
+  to impress the people in the room.</p>"
+layout: blog
+title: Can you count to 100?
+created: 1287095210
+---
+<p>Last night I attended a Meetup for Drupal.The coordinator had prepared a presentation. Throughout the evening while he delivered the presentation I interjected points I felt were beneficial to everyone in the room. And yet, I must admit that I know the real reason I was interjecting was that I wanted to show everyone how smart I am and how much I have learned about Drupal. In other words, I was trying to impress the people in the room.</p>
+<p>I don't know whether I impressed anybody or not. I do know that when I left the meeting I didn't feel good about myself, so it was entirely irrelevant whether anybody else was impressed; I recognized that I had acted selfishly. What makes it even worse is that this past June I gave a similar presentation on that same topic and during that presentation there was a member of the audience who, I felt, tried to upstage me. How could I do the same thing to somebody else?</p>
+<p>When I got home I sent an email to the presenter to apologize. Nonetheless, whatever damage (if any) that had already been done at the meeting couldn't be undone by the email; anybody at the meeting who developed a negative impression of me would still have that impression. But, that's okay. This wasn't about trying to cause anybody at the meeting to hold a certain opinion of me. It was about doing what was right. After all, I had already tried to impress the people at the meeting. Had I done the right thing at the meeting I would have stayed quiet and wouldn't have left feeling so crummy.</p>
+<p>In the email I wrote I commented on how it seems I have transformed from the guy who wants to ask all the questions to the one who wants to answer all the questions. Witness how the tables have turned: from the heckled presenter to the heckler; from the seeker to the provider.</p>
+<p>As I have reflected on this more I have had to come to terms with the fact that even as I was speaking up during the meeting, I knew inside that I should have remained quiet. But, I just couldn't let go of that need to appear smart. Have I really engaged in any transformation in my life?</p>
+<p>Three days ago I had expanded my meditation session to allow for counting 100 breaths. I wondered how long I would be able to maintain the daily practice uninterrupted. Could I do it for 100 days? It could be challenging enough just to keep my focus during one session to count to 100.</p>
+<p>Now I realize that as challenging as it can be to count to 100, and as challenging as it may be to maintain the daily practice, it will be even more challenging to put the lessons of the meditation sessions into "practice" in my daily life. Every day life presents me with the opportunity to keep a "beginner's mind" and to practice "quiet confidence."</p>
+<p>It looks like I am still just learning to count.</p>
+<p>I give thanks to the Universe for the abundance it provides me. I am open and ready to receive. Beginner's mind, here I come.</p>
