@@ -2,6 +2,24 @@
 layout: default
 ---
 
+<!-- Initialize our variables -->
+{% assign total_links = 8 %}
+{% assign max_left_links =  total_links | divided_by: 2 %}
+{% assign max_right_links = max_left_links %}
+{% assign left_links = paginator.page | minus: 2 %}
+{% assign right_links = paginator.total_pages | minus: paginator.page %}
+{% assign right_links = right_links | minus: 1 %}
+{% if left_links < 0 %}
+  {% assign left_links = 0 %}
+{% elsif left_links > max_left_links %}
+  {% assign left_links = max_left_links %}
+{% endif %}
+{% if right_links < 0 %}
+  {% assign right_links = 0 %}
+{% elsif right_links > max_right_links %}
+  {% assign right_links = max_right_links %}
+{% endif %}
+
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
@@ -15,14 +33,19 @@ layout: default
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Newer</a>
-  {% else %}
-    <span class="previous">Newer</span>
+    <a href="/" class="previous">Newest</a>
+    {% for i in (1..left_links) %}
+      {% assign offset = i | minus: 1 %}
+      {% assign page_number = paginator.page | minus: left_links | plus: offset %}
+      <a href="{{ paginator.previous_page_path | replace: paginator.previous_page, page_number }}" class="previous"> {{ page_number }} </a>
+    {% endfor %}
   {% endif %}
   <span class="page_number ">(Page: {{ paginator.page }} of {{ paginator.total_pages }})</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Older</a>
-  {% else %}
-    <span class="next">Older</span>
+    {% for i in (1..right_links) %}
+      {% assign page_number = paginator.page | plus: i %}
+      <a href="{{ paginator.next_page_path | replace: paginator.next_page, page_number }}" class="next"> {{ page_number }} </a>
+    {% endfor %}
+    <a href="{{ paginator.next_page_path | replace: paginator.next_page, paginator.total_pages }}" class="next">Oldest</a>
   {% endif %}
 </div>
