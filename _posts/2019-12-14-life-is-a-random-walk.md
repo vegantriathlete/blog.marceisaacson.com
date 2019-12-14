@@ -2,7 +2,7 @@
 excerpt: Life is a random walk through Wouldacouldashouldaville
 title: Life is a random walk
 ---
-I have finished reading "The Black Swan" by Nassim Nicholas Taleb. At the moment I've started reading "Mindful Money" by Jonathan K. DeYOE. (I will read "Antifragile" in the very near future, once I get a copy from one of my colleague's on my next trip to DC.)
+I have finished reading "The Black Swan" by Nassim Nicholas Taleb. At the moment I've started reading "Mindful Money" by Jonathan K. DeYOE. (I will read "Antifragile" in the very near future, once I get a copy from one of my colleagues on my next trip to DC.)
 
 I'm still not going to claim to understand what Nassim is saying, though he did lay some things out explicitly in his extended essay at the end of the book.
 
