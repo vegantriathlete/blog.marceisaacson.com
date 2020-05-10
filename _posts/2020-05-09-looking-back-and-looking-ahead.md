@@ -52,6 +52,8 @@ The long story short is that I decided to take all the "available" cash in my ma
 Assuming that I'm able to sell those contracts on Monday at that price, I would get approximately a 10% return for the week!
 The Bid/Ask as of Friday, May 8, 2020 was $0.20/$0.30 with a last sold of $0.30.
 The BidXAsk was 131X220.
+Update: Now that I have access to market depth data, I have lowered my premium to $0.25.
+I may still need to lower it to $0.20 to guarantee having my orders filled.
 
 Note: What I'm calling available is the amount that I should be able to withdraw as of Monday, May 11, 2020 (or so).
 I'm not interested in trading on margin.
@@ -59,6 +61,8 @@ I'm not interested in trading on margin.
 I entered my order to sell 4 CALLs of LUV at a strike of $30 and a premium of $0.20 on the May 15, 2020 expiration.
 The Bid/Ask as of Friday, May 8, 2020 was $0.15/$0.20 with a last sold of $0.17.
 The BidXAsk was 9X128.
+Update: Now that I have access to market depth data, I have lowered my premium to $0.15.
+This premium price should guarantee that my orders are filled.
 
 In originally entered my order to sell 3 CALLs of PG at a strike price of $118 and a premium of $0.70 on the May 15, 2020 expiration.
 The Bid/Ask as of Friday, May 8, 2020 was $0.28/$0.71 with a last sold of $0.68 (near the end of the day).
