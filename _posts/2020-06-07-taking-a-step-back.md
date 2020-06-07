@@ -20,7 +20,7 @@ So, I'll keep my notes about my trading equally as short as the points I made ab
 
 In just shy of two month's worth of trading, I have effectively broken even:
 Almost all the money I made in premiums has been returned in losses on getting assigned on CALLs of the shares I acquired through PUTs.
-I have far severely underperformed what the market did during that time.
+I have severely underperformed what the market did during that time.
 (These facts are almost entirely insignificant.)
 
 I'm going to take a short breather while I organize myself again.
